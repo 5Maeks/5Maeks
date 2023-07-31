@@ -11,6 +11,7 @@ I am a skilled designer and tech enthusiast, currently in my 6th semester of stu
 
 Engaged in Raspberry Pi and Arduino.
 
+</br>
 
 **SKILLS**
 
