@@ -16,7 +16,9 @@ Engaged in Raspberry Pi and Arduino.
 **SKILLS**
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,xd,blender,figma)](https://skillicons.dev)
+</br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,lua,cpp,java,py)](https://skillicons.dev)
+</br>
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 
