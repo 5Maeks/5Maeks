@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200" src="https://i.imgur.com/f3gkHDO.png" alt="5Maeks Banner">
+ <img width="500" src="https://i.imgur.com/f3gkHDO.png" alt="5Maeks Banner">
 </p>
 
 <!--
