@@ -2,8 +2,8 @@
  <img width="500" src="https://i.imgur.com/f3gkHDO.png" alt="5Maeks Banner">
 </p>
 
-<p align="center">
- 👋 <strong>WELCOME TO MY PAGE</strong> 🤙
+<p align="center"; style="font-weight: bold;">
+ 👋 WELCOME TO MY PAGE 🤙
 </p>
 <!--
 **5Maeks/5Maeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
