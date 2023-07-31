@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- 👋 WELCOME TO MY PAGE 🤙
+ 👋 **WELCOME TO MY PAGE** 🤙
 </p>
 <!--
 **5Maeks/5Maeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
