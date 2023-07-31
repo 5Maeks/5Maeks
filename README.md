@@ -6,6 +6,9 @@
  👋 WELCOME TO MY PAGE 🤙
 </p>
 
+<hr>
+
+**PERSONAL INFORMATIONS**
 
 I am a skilled designer and tech enthusiast, currently in my 6th semester of studies. Proficient in Adobe Creative Cloud, I bring creativity to my designs and complement them with development expertise in Lua, C++, Java, and Python for added interactivity. Additionally, I utilize tools like Figma, Blender, and CAD software to explore 3D modeling and enhance my design projects.
 
