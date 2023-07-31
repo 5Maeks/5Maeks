@@ -26,7 +26,7 @@ Engaged in Raspberry Pi and Arduino.
 **LANGUAGES**
 
 [![DE](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-German-black)](https://shields.io/badges)
-[![EN](https://img.shields.io/badge/%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF-English-black)](https://shields.io/badges)
+[![EN](https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English-black)](https://shields.io/badges)
 [![FR](https://img.shields.io/badge/%F0%9F%87%AB%F0%9F%87%B7-French-black)](https://shields.io/badges)
 
 <!--
