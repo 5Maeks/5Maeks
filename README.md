@@ -25,9 +25,7 @@ Engaged in Raspberry Pi and Arduino.
 
 **LANGUAGES**
 
-**STATS**
-
-![Top Langs](https://stats.justsong.cn/api/leetcode/?username=5Maeks&theme=dark)
+[![DE](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AA-German-black)](https://shields.io/badges)
 
 
 <!--
