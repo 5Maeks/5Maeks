@@ -22,7 +22,6 @@ Engaged in Raspberry Pi and Arduino.
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 </br>
----
 
 **LANGUAGES**
 
