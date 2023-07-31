@@ -27,7 +27,7 @@ Engaged in Raspberry Pi and Arduino.
 
 **STATS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5Maeks&theme=tokyonight)
+![Top Langs](https://stats.justsong.cn/api/leetcode/?username=5Maeks&theme=dark)
 
 
 <!--
