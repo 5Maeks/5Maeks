@@ -21,6 +21,13 @@ Engaged in Raspberry Pi and Arduino.
 </br>
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
+</br>
+
+**LANGUAGES**
+
+**STATS**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5Maeks&theme=tokyonight)
+
 
 <!--
 **5Maeks/5Maeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
