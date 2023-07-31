@@ -9,13 +9,14 @@
 
 I am a skilled designer and tech enthusiast, currently in my 6th semester of studies. Proficient in Adobe Creative Cloud, I bring creativity to my designs and complement them with development expertise in Lua, C++, Java, and Python for added interactivity. Additionally, I utilize tools like Figma, Blender, and CAD software to explore 3D modeling and enhance my design projects.
 
-Engaged in Raspberry Pi and Arduino. [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+Engaged in Raspberry Pi and Arduino.
 
 
 **SKILLS**
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,xd,blender,figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,lua,cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
 
 <!--
