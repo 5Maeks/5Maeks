@@ -1,6 +1,6 @@
-<p align="center">
+<a align="center">
  <img width="500" src="https://i.imgur.com/f3gkHDO.png" alt="5Maeks Banner">
-</p>
+</a>
 
 <p align="center">
  👋 WELCOME TO MY PAGE 🤙
