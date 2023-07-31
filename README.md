@@ -1,10 +1,9 @@
+<hr>
+</br>
 <p align="center">
  <img width="500" src="https://i.imgur.com/f3gkHDO.png" alt="5Maeks Banner">
 </p>
 
-<p align="center"; style="font-weight: bold;">
- 👋 WELCOME TO MY PAGE 🤙
-</p>
 </br>
 
 <hr>
