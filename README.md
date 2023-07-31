@@ -12,8 +12,9 @@ I am a skilled designer and tech enthusiast, currently in my 6th semester of stu
 Engaged in Raspberry Pi and Arduino.
 
 </br>
-
+<p align="center"; style="font-weight: bold;">
 **SKILLS**
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,xd,blender,figma)](https://skillicons.dev)
 </br>
