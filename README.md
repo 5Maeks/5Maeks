@@ -11,7 +11,7 @@
 
 </br>
 
-**PERSONAL INFORMATIONS**
+**PERSONAL INFORMATION**
 
 </br>
 
